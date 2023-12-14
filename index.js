@@ -1,6 +1,4 @@
 
-//Mizan Modak, 11/13/2023, IT302-001, Unit 9 Assignment , mm355@njit.edu
-
 import app from './server.js'
 import mongodb from "mongodb"
 import dotenv from "dotenv"
