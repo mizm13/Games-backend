@@ -1,4 +1,3 @@
-//Mizan Modak, 11/13/2023, IT302-001, Unit 9 Assignment , mm355@njit.edu
 
 import express from "express";
 import GamesController from "./games.controller.js";
